@@ -1,0 +1,48 @@
+Mess Feedback Summary
+=====================
+Run mode: MOCK (offline fake LLM, not a real model)
+Generated: 2026-11-22 23:28
+Total comments: 20
+
+Comments by category:
+  taste                 4
+  hygiene               6
+  quantity              3
+  timing                5
+  other                 2
+
+Negative comments: 15 of 20 (75.0%)
+Comments needing manual review: 0
+
+URGENT comments for the warden: 7
+(The warden reads the ORIGINAL comment in urgent.csv, not just this summary.)
+  F02  Lunch      Found a small insect in the sambar
+  F04  Breakfast  Milk smelled sour this morning
+  F08  Lunch      There was a hair in the curd rice
+  F12  Dinner     My friend had vomiting after eating the chicken curry
+  F14  Lunch      Saapadu la poochi irundhuchu
+  F17  Lunch      Rasam la mudi irundhuchu  [raised by safety net]
+  F20  Lunch      The bread packet had expired two days ago  [raised by safety net]
+
+RECURRING ISSUES (rule-based highlight, not a decision)
+A theme is listed when it appears in at least 2 different comments.
+  Late or delayed meal service: 3 comments (F03, F06, F18); meals: Dinner
+  Food running short or small portions: 3 comments (F05, F09, F15); meals: Dinner, Lunch
+  Foreign object in food (insect, hair and similar): 4 comments (F02, F08, F14, F17); meals: Lunch
+  Spoiled or expired food: 2 comments (F04, F20); meals: Breakfast, Lunch
+
+TIMING COMPLAINTS AND SCHEDULED MEAL TIMES
+  F03  "Dinner was served 20 minutes late"
+      Dinner: scheduled 19:30 to 20:30, Counter 3. Actual serving time not stated in the comment, so no delay is calculated.
+  F06  "Dinner started late again, almost 25 minutes after the usual time"
+      Dinner: scheduled 19:30 to 20:30, Counter 3. Actual serving time not stated in the comment, so no delay is calculated.
+  F10  "Breakfast counter closes too early for students with morning labs"
+      Breakfast: scheduled 07:30 to 08:30, Counter 1. Actual serving time not stated in the comment, so no delay is calculated.
+  F18  "The dinner timing is still late; this has happened several times"
+      Dinner: scheduled 19:30 to 20:30, Counter 3. Actual serving time not stated in the comment, so no delay is calculated.
+
+LIMITATIONS
+  LLM labels and keyword highlights can be wrong, especially for ambiguous or
+  mixed-language comments. Keyword matching can miss differently worded
+  complaints or group unrelated comments. The mess committee should check the
+  original comments before deciding any action.

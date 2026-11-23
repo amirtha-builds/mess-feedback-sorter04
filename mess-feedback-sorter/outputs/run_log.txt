@@ -1,0 +1,24 @@
+Run mode: MOCK (offline fake LLM, not a real model)
+Loaded 20 comments from feedback_input.csv
+F01  taste               positive  
+F02  hygiene             negative  URGENT
+F03  timing              negative  
+F04  hygiene             negative  URGENT
+F05  quantity            negative  
+   Reply failed the check, attempt 1: Category: timing. Sentiment: negative.
+F06  timing              negative  
+F07  taste               negative  
+F08  hygiene             negative  URGENT
+F09  quantity            negative  
+F10  timing              negative  
+F11  taste               positive  
+F12  hygiene             negative  URGENT
+F13  taste               negative  
+F14  hygiene             negative  URGENT
+F15  quantity            negative  
+F16  timing              positive  
+F17  other               neutral   URGENT (safety net)
+F18  timing              negative  
+F19  other               neutral   
+F20  hygiene             negative  URGENT (safety net)
+Done in 0.0 seconds. API calls made: 21. Reports are in outputs/

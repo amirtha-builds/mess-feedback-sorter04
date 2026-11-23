@@ -1,0 +1,8 @@
+id,date,meal,comment,category,summary,safety_net_raised
+F02,2026-11-01,Lunch,Found a small insect in the sambar,hygiene,Found a small insect in the sambar,False
+F04,2026-11-02,Breakfast,Milk smelled sour this morning,hygiene,Milk smelled sour this morning,False
+F08,2026-11-03,Lunch,There was a hair in the curd rice,hygiene,There was a hair in the curd rice,False
+F12,2026-11-04,Dinner,My friend had vomiting after eating the chicken curry,hygiene,My friend had vomiting after eating the chicken curry,False
+F14,2026-11-05,Lunch,Saapadu la poochi irundhuchu,hygiene,Saapadu la poochi irundhuchu,False
+F17,2026-11-06,Lunch,Rasam la mudi irundhuchu,other,Rasam la mudi irundhuchu,True
+F20,2026-11-07,Lunch,The bread packet had expired two days ago,hygiene,The bread packet had expired two days ago,True

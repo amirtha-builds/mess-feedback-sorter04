@@ -1,0 +1,4 @@
+meal,scheduled_start,scheduled_end,serving_counter
+Breakfast,07:30,08:30,Counter 1
+Lunch,12:30,13:30,Counter 2
+Dinner,19:30,20:30,Counter 3

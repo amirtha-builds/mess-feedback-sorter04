@@ -1,0 +1,21 @@
+id,date,meal,comment,category,sentiment,urgent,summary,safety_net_raised
+F01,2026-11-01,Breakfast,Idli was soft and tasted good today,taste,positive,False,Idli was soft and tasted good today,False
+F02,2026-11-01,Lunch,Found a small insect in the sambar,hygiene,negative,True,Found a small insect in the sambar,False
+F03,2026-11-01,Dinner,Dinner was served 20 minutes late,timing,negative,False,Dinner was served 20 minutes late,False
+F04,2026-11-02,Breakfast,Milk smelled sour this morning,hygiene,negative,True,Milk smelled sour this morning,False
+F05,2026-11-02,Lunch,Food ran out before the late lunch batch arrived,quantity,negative,False,Food ran out before the late lunch batch arrived,False
+F06,2026-11-02,Dinner,"Dinner started late again, almost 25 minutes after the usual time",timing,negative,False,"Dinner started late again, almost 25 minutes after the usual",False
+F07,2026-11-03,Breakfast,Pongal had too much salt,taste,negative,False,Pongal had too much salt,False
+F08,2026-11-03,Lunch,There was a hair in the curd rice,hygiene,negative,True,There was a hair in the curd rice,False
+F09,2026-11-03,Dinner,Only two chapatis were given per student,quantity,negative,False,Only two chapatis were given per student,False
+F10,2026-11-04,Breakfast,Breakfast counter closes too early for students with morning labs,timing,negative,False,Breakfast counter closes too early for students with morning labs,False
+F11,2026-11-04,Lunch,The vegetable curry was delicious,taste,positive,False,The vegetable curry was delicious,False
+F12,2026-11-04,Dinner,My friend had vomiting after eating the chicken curry,hygiene,negative,True,My friend had vomiting after eating the chicken curry,False
+F13,2026-11-05,Breakfast,Coffee was cold when it was served,taste,negative,False,Coffee was cold when it was served,False
+F14,2026-11-05,Lunch,Saapadu la poochi irundhuchu,hygiene,negative,True,Saapadu la poochi irundhuchu,False
+F15,2026-11-05,Dinner,Please increase the quantity of rice; it is not enough,quantity,negative,False,Please increase the quantity of rice; it is not enough,False
+F16,2026-11-06,Breakfast,"Service at the breakfast counter was quick today, thank you",timing,positive,False,"Service at the breakfast counter was quick today, thank you",False
+F17,2026-11-06,Lunch,Rasam la mudi irundhuchu,other,neutral,True,Rasam la mudi irundhuchu,True
+F18,2026-11-06,Dinner,The dinner timing is still late; this has happened several times,timing,negative,False,The dinner timing is still late; this has happened several,False
+F19,2026-11-07,Breakfast,ok,other,neutral,False,ok,False
+F20,2026-11-07,Lunch,The bread packet had expired two days ago,hygiene,negative,True,The bread packet had expired two days ago,True
